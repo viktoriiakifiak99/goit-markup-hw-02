@@ -2,7 +2,6 @@ body {
   font-family: "Roboto", sans-serif;
   background: #fff;
   color: #434455;
-  margin: 0%;
 }
 ul {
   list-style: none;
@@ -69,7 +68,7 @@ a {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
@@ -80,9 +79,7 @@ a {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
-  border: none;
   cursor: pointer;
   transition: cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -99,7 +96,7 @@ a {
 .team-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
@@ -123,7 +120,7 @@ a {
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
