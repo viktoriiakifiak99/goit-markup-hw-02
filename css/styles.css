@@ -29,6 +29,15 @@ a {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
 }
+.header-nav-link {
+  color: #2e2f42;
+  text-decoration: none;
+}
+.header-nav-link :hover,
+.header-nav-link:focus {
+  color: #404bbf;
+}
+
 .contacts {
   font-style: normal;
 }
